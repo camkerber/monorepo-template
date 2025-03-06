@@ -4,7 +4,7 @@ import {Home} from "@monorepo-template/home";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/monorepo-template",
     element: <App />,
     children: [
       {
